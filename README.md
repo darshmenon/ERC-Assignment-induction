@@ -1,2 +1,2 @@
 # ERC-Assignment-induction
-Telephine model on fusion 360
+Telephone model on fusion 360
